@@ -2,14 +2,6 @@
 ELI5
 ====
 
-----------
-Installing
-----------
-
-1 - Clone the repo: ``git clone https://github.com/Haller-x/eli5``
-
-2 - Use setup.py to install: ``python setup.py install``
-
 .. image:: https://img.shields.io/pypi/v/eli5.svg
    :target: https://pypi.python.org/pypi/eli5
    :alt: PyPI Version
@@ -93,7 +85,13 @@ and formatting on a client.
 .. _Permutation importance: https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html
 .. _Inspecting Black-Box Estimators: https://eli5.readthedocs.io/en/latest/blackbox/index.html
 
+----------
+Installing
+----------
 
+1 - Clone the repo: ``git clone https://github.com/Haller-x/eli5``
+
+2 - Use setup.py to install: ``python setup.py install``
 
 
 License is MIT.
