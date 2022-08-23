@@ -1,10 +1,14 @@
-**ELI5**
+====
+ELI5
+====
 
-**Installing**:
+----------
+Installing
+----------
 
-1 - Clone the repo: `git clone https://github.com/Haller-x/eli5`
+1 - Clone the repo: ``git clone https://github.com/Haller-x/eli5``
 
-2 - Use setup.py to install: `python setup.py install`
+2 - Use setup.py to install: ``python setup.py install``
 
 .. image:: https://img.shields.io/pypi/v/eli5.svg
    :target: https://pypi.python.org/pypi/eli5
