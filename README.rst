@@ -85,6 +85,12 @@ and formatting on a client.
 .. _Permutation importance: https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html
 .. _Inspecting Black-Box Estimators: https://eli5.readthedocs.io/en/latest/blackbox/index.html
 
+## Installing:
+1 - Clone the repo: `git clone https://github.com/Haller-x/eli5`
+2 - Use setup.py to install: `python setup.py install`
+
+
+
 License is MIT.
 
 Check `docs <https://eli5.readthedocs.io/>`_ for more.
