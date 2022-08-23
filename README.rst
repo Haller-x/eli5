@@ -1,6 +1,6 @@
-# ELI5
+**ELI5**
 
-## Installing:
+**Installing**:
 
 1 - Clone the repo: `git clone https://github.com/Haller-x/eli5`
 
